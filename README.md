@@ -1,5 +1,5 @@
 # Microsoft-Excel-Automation-using-epplus-project
-The project was used in a university to hanle student exams tables in an automated fasion.<br/><br/><br/>
+The project was used in a university to handle student exams tables in an automated fasion.<br/><br/><br/>
 ![alt text](https://github.com/ALhasanZGhaibe/Microsoft-Excel-Automation-using-epplus-project/raw/master/Student%20Distribution.JPG)<br/><br/>
 I used complex custom algorithms to the write the code in an effecient manner,<br/>
 I had easy maintainance due to how "DRY" the code was.<br/>

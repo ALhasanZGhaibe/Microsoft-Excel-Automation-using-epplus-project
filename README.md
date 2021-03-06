@@ -10,11 +10,12 @@ Feature:<br/>
 ![alt text](https://github.com/ALhasanZGhaibe/Microsoft-Excel-Automation-using-epplus-project/raw/master/Student%20Distribution.JPG)<br/><br/>
 Complex algorithms were optimized to achieve the desired result,<br/>
 For the Source code start with this file.<br/>
-https://github.com/ALhasanZGhaibe/Microsoft-Excel-Automation-using-epplus-project/blob/master/Student%20Distribution/Form1.cs<br/><br/>
+https://github.com/ALhasanZGhaibe/Microsoft-Excel-Automation-using-epplus-project/blob/master/Student%20Distribution/Form1.cs<br/>
+Or download the excutable at this link<br/>
+<a href="https://github.com/ALhasanZGhaibe/epplus-project/raw/master/StudentDisturbution.rar">SudentDistirution.rar</a>.<br/><br/>
 General Descripton:<br/>
 Using Epplus lib with c# to execute excel tasks on multiple files in seconds. <br/>
-Check The code above start with "StudentDistirbuation/Form1.cs".<br/>
-Or download the excutable at this link <a href="https://github.com/ALhasanZGhaibe/epplus-project/raw/master/StudentDisturbution.rar">SudentDistirution.rar</a>.<br/><br/>
+Check The code above start with "StudentDistirbuation/Form1.cs".<br/><br/>
 
 Alhasan Zghaibe <br/>
 About me:<br/>

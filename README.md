@@ -6,5 +6,10 @@ Check the source code start with this file.<br/>
 https://github.com/ALhasanZGhaibe/Microsoft-Excel-Automation-using-epplus-project/blob/master/Student%20Distribution/Form1.cs<br/><br/>
 Using Epplus lib with c# to execute excel tasks on multiple files in seconds. <br/>
 Check The code above start with "StudentDistirbuation/Form1.cs".<br/>
-Or download the excutable at this link <a href="https://github.com/ALhasanZGhaibe/epplus-project/raw/master/StudentDisturbution.rar">SudentDistirution.rar</a>.<br/>
+Or download the excutable at this link <a href="https://github.com/ALhasanZGhaibe/epplus-project/raw/master/StudentDisturbution.rar">SudentDistirution.rar</a>.<br/><br/>
+
+About me:
+I am Alhasan Zghaibe I have a diploma in Computer Science Engineering and I am studying a master in Computer Science in Hungary in the university of Miskolc.<br/>
+Email: hsnzag@gmail.com<br/>
+Phone: +36300137592<br/>
 

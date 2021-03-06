@@ -8,8 +8,9 @@ Using Epplus lib with c# to execute excel tasks on multiple files in seconds. <b
 Check The code above start with "StudentDistirbuation/Form1.cs".<br/>
 Or download the excutable at this link <a href="https://github.com/ALhasanZGhaibe/epplus-project/raw/master/StudentDisturbution.rar">SudentDistirution.rar</a>.<br/><br/>
 
-About me:
-I am Alhasan Zghaibe I have a diploma in Computer Science Engineering and I am studying a master in Computer Science in Hungary in the university of Miskolc.<br/>
+Alhasan Zghaibe <br/>
+About me:<br/>
+I have a diploma in Computer Science Engineering and I am studying a master in Computer Science in Hungary in the university of Miskolc.<br/>
 Email: hsnzag@gmail.com<br/>
 Phone: +36300137592<br/>
 

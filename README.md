@@ -10,7 +10,7 @@ Or download the excutable at this link <a href="https://github.com/ALhasanZGhaib
 
 Alhasan Zghaibe <br/>
 About me:<br/>
-I have a diploma in Computer Science Engineering and I am studying a master in Computer Science in Hungary in the university of Miskolc.<br/>
+I have a diploma in Computer Science Engineering I have skills in java C# and android Studio and Python and PHP and Mysql and I am studying a master in Computer Science in Hungary in the university of Miskolc.<br/>
 Email: hsnzag@gmail.com<br/>
 Phone: +36300137592<br/>
 

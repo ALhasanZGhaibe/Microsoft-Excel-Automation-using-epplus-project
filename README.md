@@ -1,5 +1,11 @@
 # Microsoft-Excel-Automation-using-epplus-project
-The project was used in a university to handle student exams tables in an automated fasion.<br/><br/><br/>
+The project was used in a university to handle student exams tables in an automated fasion.<br/><br/>
+
+Feature:<br/>
+1- Meaningful UI that shows the lists of students with live colors indicating the table distribution of the students'Groups over their respective classrooms.<br/>
+2- One click Sorting: you can distribute thousand of students in one click automaticaly with many options like randomized linear or even match.<br/>
+3- Options to Edit the template file for the final spreadsheet list to any prefered manner.<br/>
+4- Helpfull texts to help the user solving possible problems or misuse.<br/><br/>
 ![alt text](https://github.com/ALhasanZGhaibe/Microsoft-Excel-Automation-using-epplus-project/raw/master/Student%20Distribution.JPG)<br/><br/>
 I used complex custom algorithms to the write the code in an effecient manner,<br/><br/>
 Check the source code start with this file.<br/>

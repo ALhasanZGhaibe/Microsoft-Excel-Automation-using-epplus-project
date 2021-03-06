@@ -15,7 +15,7 @@ Or download the excutable at this link<br/>
 <a href="https://github.com/ALhasanZGhaibe/epplus-project/raw/master/StudentDisturbution.rar">SudentDistirution.rar</a>.<br/><br/>
 General Descripton:<br/>
 Using Epplus lib with c# to execute excel tasks on multiple files in seconds. <br/>
-Check The code above start with "StudentDistirbuation/Form1.cs".<br/>
+Microsoft Office is not required.<br/>
 
 Alhasan Zghaibe <br/>
 About me:<br/>

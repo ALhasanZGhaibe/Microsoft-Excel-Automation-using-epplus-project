@@ -8,7 +8,7 @@ Feature:<br/>
 4- Meaningful UI with live colors indicating the table distribution of the students' Groups over their respective classes.<br/>
 <br/>
 ![alt text](https://github.com/ALhasanZGhaibe/Microsoft-Excel-Automation-using-epplus-project/raw/master/Student%20Distribution.JPG)<br/><br/>
-Complex custom algorithms to the write the code in an effecient manner,<br/>
+Complex algorithms were optimized to achieve the desired result,<br/>
 For the Source code start with this file.<br/>
 https://github.com/ALhasanZGhaibe/Microsoft-Excel-Automation-using-epplus-project/blob/master/Student%20Distribution/Form1.cs<br/><br/>
 General Descripton:<br/>
